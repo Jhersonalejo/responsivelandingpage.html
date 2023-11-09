@@ -1,0 +1,32 @@
+.header{
+    background-color: white;
+    min-height: 8em;
+    padding: 5em 32em;
+    font-style: inherit;
+    font-size: small;
+    border-color:gray;
+    border-width: 5px;
+    border-style: solid;
+    padding:30px;
+
+    
+}
+
+.info{
+    background-color: lightblue;
+    min-height: 25em;
+    text-align: justify;
+    padding:30px;
+    
+}
+.footer{
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    padding:30px;
+}
+.container{
+    display: grid;
+    place-items: center;
+    padding:30px;
+}
